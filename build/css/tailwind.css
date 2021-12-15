@@ -668,7 +668,7 @@ video {
   }
 }
 
-.a1B{
+.a1y{
   position: absolute;
   width: 1px;
   height: 1px;
@@ -680,7 +680,7 @@ video {
   border-width: 0;
 }
 
-.a2e{
+.a2b{
   position: fixed;
 }
 
@@ -712,7 +712,7 @@ video {
   top: 100%;
 }
 
-.a1X{
+.a1U{
   bottom: 0px;
 }
 
@@ -720,23 +720,23 @@ video {
   right: 0px;
 }
 
-.a2a{
+.a27{
   top: 3.5rem;
 }
 
-.a2b{
+.a28{
   bottom: 6rem;
 }
 
-.a2f{
+.a2c{
   bottom: 2rem;
 }
 
-.a2g{
+.a2d{
   right: 2rem;
 }
 
-.a2h{
+.a2e{
   left: auto;
 }
 
@@ -764,15 +764,15 @@ video {
   z-index: 40;
 }
 
-.a1H{
+.a1E{
   z-index: 10;
 }
 
-.a1Y\[-1\]{
+.a1V\[-1\]{
   z-index: -1;
 }
 
-.a1Y\[999\]{
+.a1V\[999\]{
   z-index: 999;
 }
 
@@ -795,7 +795,7 @@ video {
   margin-right: 2rem;
 }
 
-.a1L{
+.a1I{
   margin-left: auto;
   margin-right: auto;
 }
@@ -820,27 +820,27 @@ video {
   margin-right: -12px;
 }
 
-.a1N{
+.a1K{
   margin-bottom: 2.25rem;
 }
 
-.a1Q{
+.a1N{
   margin-bottom: 1rem;
 }
 
-.a1V{
+.a1S{
   margin-bottom: 2.5rem;
 }
 
-.a21{
+.a1Z{
   margin-bottom: 4rem;
 }
 
-.a23{
+.a20{
   margin-bottom: 2rem;
 }
 
-.a25{
+.a22{
   margin-right: 1.5rem;
 }
 
@@ -936,7 +936,7 @@ video {
   display: block;
 }
 
-.a22{
+.a1_{
   display: inline-block;
 }
 
@@ -956,19 +956,19 @@ video {
   height: 2px;
 }
 
-.a1t{
+.a1q{
   height: 2.25rem;
 }
 
-.a1E{
+.a1B{
   height: 1.25rem;
 }
 
-.a2d{
+.a2a{
   height: 2.5rem;
 }
 
-.a2l{
+.a2i{
   height: 0.75rem;
 }
 
@@ -1032,19 +1032,19 @@ video {
   width: 250px;
 }
 
-.a1s{
+.a1p{
   width: 2.25rem;
 }
 
-.a1D{
+.a1A{
   width: 1.25rem;
 }
 
-.a2c{
+.a29{
   width: 2.5rem;
 }
 
-.a28{
+.a25{
   width: 0.75rem;
 }
 
@@ -1056,7 +1056,7 @@ video {
   width: 70px;
 }
 
-.a1u{
+.a1r{
   width: 3.5rem;
 }
 
@@ -1064,7 +1064,7 @@ video {
   width: 1.75rem;
 }
 
-.a20{
+.a1Y{
   width: 1rem;
 }
 
@@ -1147,7 +1147,7 @@ video {
   transform: var(--tw-transform);
 }
 
-.a1r{
+.a1o{
   cursor: pointer;
 }
 
@@ -1174,7 +1174,7 @@ video {
   list-style-type: disc;
 }
 
-.a1K{
+.a1H{
   flex-wrap: wrap;
 }
 
@@ -1182,11 +1182,11 @@ video {
   align-items: center;
 }
 
-.a1d{
+.a2m{
   justify-content: flex-end;
 }
 
-.a1x{
+.a1u{
   justify-content: center;
 }
 
@@ -1210,7 +1210,7 @@ video {
   border-radius: 0.25rem;
 }
 
-.a1w{
+.a1t{
   border-radius: 9999px;
 }
 
@@ -1218,11 +1218,11 @@ video {
   border-width: 1px;
 }
 
-.a2m{
+.a2j{
   border-top-width: 1px;
 }
 
-.a2n{
+.a2k{
   border-left-width: 1px;
 }
 
@@ -1242,7 +1242,7 @@ video {
   border-right-width: 1px;
 }
 
-.a2o{
+.a2l{
   --tw-border-opacity: 1;
   border-color: rgba(255, 255, 255, var(--tw-border-opacity));
 }
@@ -1291,7 +1291,7 @@ video {
   background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
 }
 
-.a1k{
+.a1h{
   --tw-bg-opacity: 1;
   background-color: rgba(74, 108, 247, var(--tw-bg-opacity));
 }
@@ -1311,11 +1311,11 @@ video {
   background-color: rgba(29, 33, 68, var(--tw-bg-opacity));
 }
 
-.a1Z{
+.a1W{
   --tw-bg-opacity: 0.05;
 }
 
-.a29{
+.a26{
   --tw-bg-opacity: 0.1;
 }
 
@@ -1331,11 +1331,11 @@ video {
   --tw-bg-opacity: 0.75;
 }
 
-.a26{
+.a23{
   fill: currentColor;
 }
 
-.a1C{
+.a1z{
   stroke: currentColor;
 }
 
@@ -1408,17 +1408,17 @@ video {
   padding-bottom: 10px;
 }
 
-.a1i{
+.a1f{
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
 }
 
-.a1j{
+.a1g{
   padding-left: 1.75rem;
   padding-right: 1.75rem;
 }
 
-.a1l{
+.a1i{
   padding-left: 2rem;
   padding-right: 2rem;
 }
@@ -1443,7 +1443,7 @@ video {
   padding-right: 1.5rem;
 }
 
-.a1m{
+.a1j{
   padding-left: 2.25rem;
   padding-right: 2.25rem;
 }
@@ -1463,23 +1463,23 @@ video {
   padding-bottom: 2.5rem;
 }
 
-.a1e{
+.a2n{
   padding-right: 4rem;
 }
 
-.a1I\[180px\]{
+.a1F\[180px\]{
   padding-top: 180px;
 }
 
-.a1J\[120px\]{
+.a1G\[120px\]{
   padding-bottom: 120px;
 }
 
-.a1I\[100px\]{
+.a1F\[100px\]{
   padding-top: 100px;
 }
 
-.a1I\[150px\]{
+.a1F\[150px\]{
   padding-top: 150px;
 }
 
@@ -1487,11 +1487,11 @@ video {
   padding-right: 0.25rem;
 }
 
-.a1I\[120px\]{
+.a1F\[120px\]{
   padding-top: 120px;
 }
 
-.a1J\[100px\]{
+.a1G\[100px\]{
   padding-bottom: 100px;
 }
 
@@ -1519,11 +1519,11 @@ video {
   padding-bottom: 5rem;
 }
 
-.a1J\[110px\]{
+.a1G\[110px\]{
   padding-bottom: 110px;
 }
 
-.a1J\[50px\]{
+.a1G\[50px\]{
   padding-bottom: 50px;
 }
 
@@ -1539,7 +1539,7 @@ video {
   padding-bottom: 2rem;
 }
 
-.a1M{
+.a1J{
   text-align: center;
 }
 
@@ -1553,12 +1553,12 @@ video {
   line-height: 1.25rem;
 }
 
-.a1O{
+.a1L{
   font-size: 1.875rem;
   line-height: 2.25rem;
 }
 
-.a27{
+.a24{
   font-size: 1.25rem;
   line-height: 1.75rem;
 }
@@ -1568,7 +1568,7 @@ video {
   line-height: 2rem;
 }
 
-.a1T{
+.a1Q{
   font-size: 1.125rem;
   line-height: 1.75rem;
 }
@@ -1578,11 +1578,11 @@ video {
   line-height: 1rem;
 }
 
-.a1g{
+.a1d{
   font-weight: 700;
 }
 
-.a1R{
+.a1O{
   font-weight: 500;
 }
 
@@ -1594,7 +1594,7 @@ video {
   font-style: italic;
 }
 
-.a1U{
+.a1R{
   line-height: 1.625;
 }
 
@@ -1606,7 +1606,7 @@ video {
   line-height: 1.375;
 }
 
-.a1h{
+.a1e{
   --tw-text-opacity: 1;
   color: rgba(29, 33, 68, var(--tw-text-opacity));
 }
@@ -1616,22 +1616,22 @@ video {
   color: rgba(255, 255, 255, var(--tw-text-opacity));
 }
 
-.a1A{
+.a1x{
   --tw-text-opacity: 1;
   color: rgba(9, 14, 52, var(--tw-text-opacity));
 }
 
-.a1S{
+.a1P{
   --tw-text-opacity: 1;
   color: rgba(149, 156, 177, var(--tw-text-opacity));
 }
 
-.a24\[\#CED3F6\]{
+.a21\[\#CED3F6\]{
   --tw-text-opacity: 1;
   color: rgba(206, 211, 246, var(--tw-text-opacity));
 }
 
-.a1W{
+.a1T{
   --tw-text-opacity: 1;
   color: rgba(74, 108, 247, var(--tw-text-opacity));
 }
@@ -1673,12 +1673,12 @@ video {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-.a1n{
+.a1k{
   --tw-shadow: 0px 5px 10px rgba(4, 10, 34, 0.2);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-.a2k{
+.a2h{
   --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
@@ -1708,7 +1708,7 @@ video {
   filter: var(--tw-filter);
 }
 
-.a1p{
+.a1m{
   transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
   transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
   transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;
@@ -1720,7 +1720,7 @@ video {
   transition-duration: 300ms;
 }
 
-.a2j{
+.a2g{
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -1861,16 +1861,16 @@ input#checkboxLabel:checked ~ .box span{
   background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
 }
 
-.hover\:a1k:hover{
+.hover\:a1h:hover{
   --tw-bg-opacity: 1;
   background-color: rgba(74, 108, 247, var(--tw-bg-opacity));
 }
 
-.hover\:a1o:hover{
+.hover\:a1l:hover{
   --tw-bg-opacity: 0.9;
 }
 
-.hover\:a2i:hover{
+.hover\:a2f:hover{
   --tw-bg-opacity: 0.8;
 }
 
@@ -1882,7 +1882,7 @@ input#checkboxLabel:checked ~ .box span{
   --tw-bg-opacity: 0.2;
 }
 
-.hover\:a1W:hover{
+.hover\:a1T:hover{
   --tw-text-opacity: 1;
   color: rgba(74, 108, 247, var(--tw-text-opacity));
 }
@@ -1904,7 +1904,7 @@ input#checkboxLabel:checked ~ .box span{
   opacity: 1;
 }
 
-.hover\:a1n:hover{
+.hover\:a1k:hover{
   --tw-shadow: 0px 5px 10px rgba(4, 10, 34, 0.2);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
@@ -1950,7 +1950,7 @@ input#checkboxLabel:checked ~ .box span{
   display: none;
 }
 
-.a0 .dark\:a2o{
+.a0 .dark\:a2l{
   --tw-border-opacity: 1;
   border-color: rgba(255, 255, 255, var(--tw-border-opacity));
 }
@@ -1983,7 +1983,7 @@ input#checkboxLabel:checked ~ .box span{
   background-color: rgba(36, 43, 81, var(--tw-bg-opacity));
 }
 
-.a0 .dark\:a1k{
+.a0 .dark\:a1h{
   --tw-bg-opacity: 1;
   background-color: rgba(74, 108, 247, var(--tw-bg-opacity));
 }
@@ -1993,11 +1993,11 @@ input#checkboxLabel:checked ~ .box span{
   background-color: rgba(29, 33, 68, var(--tw-bg-opacity));
 }
 
-.a0 .dark\:a1Z{
+.a0 .dark\:a1W{
   --tw-bg-opacity: 0.05;
 }
 
-.a0 .dark\:a29{
+.a0 .dark\:a26{
   --tw-bg-opacity: 0.1;
 }
 
@@ -2006,7 +2006,7 @@ input#checkboxLabel:checked ~ .box span{
   color: rgba(255, 255, 255, var(--tw-text-opacity));
 }
 
-.a0 .dark\:a1S{
+.a0 .dark\:a1P{
   --tw-text-opacity: 1;
   color: rgba(149, 156, 177, var(--tw-text-opacity));
 }
@@ -2019,7 +2019,7 @@ input#checkboxLabel:checked ~ .box span{
   opacity: 0.6;
 }
 
-.a0 .dark\:a1n{
+.a0 .dark\:a1k{
   --tw-shadow: 0px 5px 10px rgba(4, 10, 34, 0.2);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
@@ -2028,7 +2028,7 @@ input#checkboxLabel:checked ~ .box span{
   --tw-bg-opacity: 0.2;
 }
 
-.a0 .dark\:hover\:a1W:hover{
+.a0 .dark\:hover\:a1T:hover{
   --tw-text-opacity: 1;
   color: rgba(74, 108, 247, var(--tw-text-opacity));
 }
@@ -2060,11 +2060,11 @@ input#checkboxLabel:checked ~ .box span{
     display: flex;
   }
 
-  .sm\:a1_\/2{
+  .sm\:a1X\/2{
     width: 50%;
   }
 
-  .sm\:a1d{
+  .sm\:a2m{
     justify-content: flex-end;
   }
 
@@ -2093,17 +2093,17 @@ input#checkboxLabel:checked ~ .box span{
     text-align: right;
   }
 
-  .sm\:a1P{
+  .sm\:a1M{
     font-size: 2.25rem;
     line-height: 2.5rem;
   }
 
-  .sm\:a1T{
+  .sm\:a1Q{
     font-size: 1.125rem;
     line-height: 1.75rem;
   }
 
-  .sm\:a1O{
+  .sm\:a1L{
     font-size: 1.875rem;
     line-height: 2.25rem;
   }
@@ -2113,7 +2113,7 @@ input#checkboxLabel:checked ~ .box span{
     line-height: 2rem;
   }
 
-  .sm\:a1U{
+  .sm\:a1R{
     line-height: 1.625;
   }
 
@@ -2131,23 +2131,23 @@ input#checkboxLabel:checked ~ .box span{
     display: block;
   }
 
-  .md\:a1v{
+  .md\:a1s{
     height: 3.5rem;
   }
 
-  .md\:a1G{
+  .md\:a1D{
     height: 1.5rem;
   }
 
-  .md\:a1u{
+  .md\:a1r{
     width: 3.5rem;
   }
 
-  .md\:a1F{
+  .md\:a1C{
     width: 1.5rem;
   }
 
-  .md\:a1_\/2{
+  .md\:a1X\/2{
     width: 50%;
   }
 
@@ -2155,7 +2155,7 @@ input#checkboxLabel:checked ~ .box span{
     width: 66.666667%;
   }
 
-  .md\:a20\/12{
+  .md\:a1Y\/12{
     width: 33.333333%;
   }
 
@@ -2163,7 +2163,7 @@ input#checkboxLabel:checked ~ .box span{
     width: 66.666667%;
   }
 
-  .md\:a1d{
+  .md\:a2m{
     justify-content: flex-end;
   }
 
@@ -2171,7 +2171,7 @@ input#checkboxLabel:checked ~ .box span{
     padding: 2.25rem;
   }
 
-  .md\:a1m{
+  .md\:a1j{
     padding-left: 2.25rem;
     padding-right: 2.25rem;
   }
@@ -2196,15 +2196,15 @@ input#checkboxLabel:checked ~ .box span{
     padding-right: 50px;
   }
 
-  .md\:a1I\[150px\]{
+  .md\:a1F\[150px\]{
     padding-top: 150px;
   }
 
-  .md\:a1J\[120px\]{
+  .md\:a1G\[120px\]{
     padding-bottom: 120px;
   }
 
-  .md\:a24\[45px\]{
+  .md\:a21\[45px\]{
     font-size: 45px;
   }
 
@@ -2213,12 +2213,12 @@ input#checkboxLabel:checked ~ .box span{
     line-height: 1;
   }
 
-  .md\:a27{
+  .md\:a24{
     font-size: 1.25rem;
     line-height: 1.75rem;
   }
 
-  .md\:a1T{
+  .md\:a1Q{
     font-size: 1.125rem;
     line-height: 1.75rem;
   }
@@ -2227,7 +2227,7 @@ input#checkboxLabel:checked ~ .box span{
     line-height: 1.25;
   }
 
-  .md\:a1U{
+  .md\:a1R{
     line-height: 1.625;
   }
 }
@@ -2297,7 +2297,7 @@ input#checkboxLabel:checked ~ .box span{
     width: 100%;
   }
 
-  .lg\:a20\/12{
+  .lg\:a1Y\/12{
     width: 33.333333%;
   }
 
@@ -2309,11 +2309,11 @@ input#checkboxLabel:checked ~ .box span{
     width: 58.333333%;
   }
 
-  .lg\:a1D\/12{
+  .lg\:a1A\/12{
     width: 41.666667%;
   }
 
-  .lg\:a1_\/2{
+  .lg\:a1X\/2{
     width: 50%;
   }
 
@@ -2321,7 +2321,7 @@ input#checkboxLabel:checked ~ .box span{
     width: 66.666667%;
   }
 
-  .lg\:a1_\/3{
+  .lg\:a1X\/3{
     width: 33.333333%;
   }
 
@@ -2370,7 +2370,7 @@ input#checkboxLabel:checked ~ .box span{
     padding-right: 1.5rem;
   }
 
-  .lg\:a1l{
+  .lg\:a1i{
     padding-left: 2rem;
     padding-right: 2rem;
   }
@@ -2388,7 +2388,7 @@ input#checkboxLabel:checked ~ .box span{
     padding-right: 1rem;
   }
 
-  .lg\:a1f{
+  .lg\:a2o{
     padding-right: 0px;
   }
 
@@ -2400,12 +2400,12 @@ input#checkboxLabel:checked ~ .box span{
     text-align: right;
   }
 
-  .lg\:a1P{
+  .lg\:a1M{
     font-size: 2.25rem;
     line-height: 2.5rem;
   }
 
-  .lg\:a27{
+  .lg\:a24{
     font-size: 1.25rem;
     line-height: 1.75rem;
   }
@@ -2424,7 +2424,7 @@ input#checkboxLabel:checked ~ .box span{
     line-height: 1.25;
   }
 
-  .lg\:a1U{
+  .lg\:a1R{
     line-height: 1.625;
   }
 
@@ -2482,7 +2482,7 @@ input#checkboxLabel:checked ~ .box span{
     display: flex;
   }
 
-  .xl\:a1D\/12{
+  .xl\:a1A\/12{
     width: 41.666667%;
   }
 
@@ -2490,15 +2490,15 @@ input#checkboxLabel:checked ~ .box span{
     width: 16.666667%;
   }
 
-  .xl\:a28\/12{
+  .xl\:a25\/12{
     width: 25%;
   }
 
-  .xl\:a1_\/2{
+  .xl\:a1X\/2{
     width: 50%;
   }
 
-  .xl\:a1_\/3{
+  .xl\:a1X\/3{
     width: 33.333333%;
   }
 
@@ -2527,7 +2527,7 @@ input#checkboxLabel:checked ~ .box span{
     padding-right: 1.5rem;
   }
 
-  .xl\:a1m{
+  .xl\:a1j{
     padding-left: 2.25rem;
     padding-right: 2.25rem;
   }
@@ -2542,7 +2542,7 @@ input#checkboxLabel:checked ~ .box span{
     padding-right: 1.25rem;
   }
 
-  .xl\:a1l{
+  .xl\:a1i{
     padding-left: 2rem;
     padding-right: 2rem;
   }
@@ -2551,15 +2551,15 @@ input#checkboxLabel:checked ~ .box span{
     padding-right: 0.75rem;
   }
 
-  .xl\:a1I\[180px\]{
+  .xl\:a1F\[180px\]{
     padding-top: 180px;
   }
 
-  .xl\:a1J\[160px\]{
+  .xl\:a1G\[160px\]{
     padding-bottom: 160px;
   }
 
-  .xl\:a24\[45px\]{
+  .xl\:a21\[45px\]{
     font-size: 45px;
   }
 
@@ -2568,12 +2568,12 @@ input#checkboxLabel:checked ~ .box span{
     line-height: 2rem;
   }
 
-  .xl\:a1T{
+  .xl\:a1Q{
     font-size: 1.125rem;
     line-height: 1.75rem;
   }
 
-  .xl\:a1O{
+  .xl\:a1L{
     font-size: 1.875rem;
     line-height: 2.25rem;
   }
@@ -2582,7 +2582,7 @@ input#checkboxLabel:checked ~ .box span{
     line-height: 1.25;
   }
 
-  .xl\:a1U{
+  .xl\:a1R{
     line-height: 1.625;
   }
 }
@@ -2619,11 +2619,11 @@ input#checkboxLabel:checked ~ .box span{
     padding-right: 1.25rem;
   }
 
-  .\32xl\:a1I\[210px\]{
+  .\32xl\:a1F\[210px\]{
     padding-top: 210px;
   }
 
-  .\32xl\:a1J\[200px\]{
+  .\32xl\:a1G\[200px\]{
     padding-bottom: 200px;
   }
 }
